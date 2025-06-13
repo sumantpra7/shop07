@@ -3,7 +3,7 @@
 A simple Java-based inventory management system designed to help small shopkeepers manage products based on shelf location (row × column), update stock, and generate bills — all stored locally using a lightweight SQLite database.
 
 ---
-
+youtube video ---> https://youtu.be/QeIo3W8qNbo
 
 
 ## 📖 About the Project
